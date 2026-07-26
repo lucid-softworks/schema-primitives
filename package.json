@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/schema-primitives",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Primitive string, number, boolean, literal, date, bigint, unknown, and never schemas.",
   "keywords": [
     "javascript",
